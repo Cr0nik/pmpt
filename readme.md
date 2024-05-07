@@ -67,4 +67,4 @@ Os resultados foram bons para o meu primeiro projeto, com uma acurácia de **0.8
 3. **Curva Roc do Modelo**:
     - ![CurvaRoc](imgs/curva_roc_pmpt.png)
 4. **Importância das Features do Modelo**:
-    -![ImpFeat](imgs/importancia_feat_pmpt.png)
+    - ![ImpFeat](imgs/importancia_feat_pmpt.png)
